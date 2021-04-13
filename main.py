@@ -1,0 +1,1 @@
+fname = input("input your firstname")
